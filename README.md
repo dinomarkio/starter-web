@@ -3,9 +3,19 @@
 This repository is for showing how Git and GitHub work
 
 ## Purpose
+This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work
 
-Sample website with plenty of files for demos
 
 ## Project online
+This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work
 
-## Deploiment
+
+## Deployment
+This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work
+
