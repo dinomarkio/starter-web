@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Rodrigo> -- <mr@gmail.com> -- <twitter>
 
 # THANKS
 
